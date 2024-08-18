@@ -1,5 +1,8 @@
 # Lung Cancer Detection with Histopathological Images
-*Authors: Abuduaini Niyazi, Derek Kielty, Rishat Dilmurat, Sujoy Upadhyay, Ronak Desai*
+
+**Authors: Abuduaini Niyazi, Derek Kielty, Rishat Dilmurat, Sujoy Upadhyay, Ronak Desai**
+
+*Submitted as a final project for the [Erdos Institute Deep Learning](https://www.erdosinstitute.org/) (Summer 2024) Boot Camp*
 
 One of the most important applications of deep neural networks in the healthcare inducstry is the classification of various types of diseases from image data. Particularly, one life-saving application is to detect cancerous cells at an early stage. In this project, we will train convolutional neural networks with a dataset of 25,000 images to distinguish normal lung tissues from cancerous ones.
 
