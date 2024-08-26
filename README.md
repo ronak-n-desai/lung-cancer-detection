@@ -28,9 +28,19 @@ Next, we studied some more advanced CNN architectures. We first tried the [Chann
 
 Then, we tried the [AlexNet](https://dl.acm.org/doi/10.1145/3065386) with moderate success. We improved upon this by following the [ZFNet](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_53) architecture which changes, among a few other things, the filter size and stride in the first two layers. Their implementation saw an improvement over the AlexNet and we see an improvement in performance on this dataset as well. 
 
-Additionally, we used some pre-trained models as a comparison for what can be achieved in the best case. We tried InceptionV3 using just PyTorch and ResNet-18 with [fastai](https://docs.fast.ai/). 
+Additionally, we used some pre-trained models as a comparison for what can be achieved in the best case. We tried [Inception_V3](https://pytorch.org/hub/pytorch_vision_inception_v3/) using just PyTorch and ResNet-18 with [fastai](https://docs.fast.ai/). 
 
 ## Conclusion
 
-Ultimately, we were able to find success with the ZFNet, achieving 99% training accuracy and 98% validation accuracy which is an improvement over the aforementioned gold medal winner on this dataset. Along the way, we learned 
+Ultimately, we were able to find success with the ZFNet, achieving 99% training accuracy and 98% validation accuracy which is an improvement over the aforementioned gold medal winner on this dataset. Additionally, the pre-trained models were able to obtain a 100 percent training and validation accuracy, just like the gold medal winners. 
+
+Along the way, we learned a lot about convolutional neural networks, training deep learning models, and how to search for parameters that are important. We also learned how to build a model from just basic PyTorch components as well as how to implement pre-trained models that can be transfer learned with the dataset at hand.
+
+If this project were to be extended, we could do the following 
+- Use the deconvolutional layers of the ZFNet to visualize the activations of the convolutional layers
+- Train on a more complicated dataset that cannot achieve 100% performance on a pre-trained model.
+
+## Acknowledgements
+
+We made extensive use of Kaggle's free 30 hours per week of GPU compute time for our analysis. Additionally 
 
