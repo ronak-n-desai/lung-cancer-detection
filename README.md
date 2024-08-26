@@ -35,6 +35,7 @@ Additionally, we used some pre-trained models as a comparison for what can be ac
 Ultimately, we were able to find success with the ZFNet, achieving 99% training accuracy and 98% validation accuracy which is an improvement over the aforementioned gold medal winner on this dataset. 
 
 ![image](https://github.com/user-attachments/assets/9019cf64-ee18-42a4-b4ed-1149778a3e51)
+
 Above is a **confusion matrix** on the validation set (of 3,000 total images) which summarizes the nature of the misclassifications. Additionally, the pre-trained models were able to obtain a 100 percent training and validation accuracy, just like the gold medal winners. 
 
 Along the way, we learned a lot about convolutional neural networks, training deep learning models, and how to search for parameters that are important. We also learned how to build a model from just basic PyTorch components as well as how to implement pre-trained models that can be transfer learned with the dataset at hand.
