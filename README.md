@@ -39,8 +39,9 @@ Along the way, we learned a lot about convolutional neural networks, training de
 If this project were to be extended, we could do the following 
 - Use the deconvolutional layers of the ZFNet to visualize the activations of the convolutional layers
 - Train on a more complicated dataset that cannot achieve 100% performance on a pre-trained model.
+- Make optimizations to the training that reduce the training time or number of epochs needed to train.
 
 ## Acknowledgements
 
-We made extensive use of Kaggle's free 30 hours per week of GPU compute time for our analysis. Additionally 
+We made extensive use of Kaggle's free 30 hours per week of GPU compute time for our analysis. Additionally, we thank the Erdos Institute for providing us the opportunity to learn about deep learning and work on this project.
 
