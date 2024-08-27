@@ -1,0 +1,9 @@
+﻿Normalization,Accuracy (%),Types,Time (min)
+NONE,96.533,Train,25.8
+LRN,98.858,Train,26.1
+LCN,97.883,Train,41.2
+BN,98.95,Train,26.4
+NONE,95.767,Val,25.8
+LRN,97.9,Val,26.1
+LCN,96.867,Val,41.2
+BN,98.067,Val,26.4
