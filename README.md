@@ -4,6 +4,8 @@
 
 *Submitted as a final project for the [Erdos Institute](https://www.erdosinstitute.org/) Deep Learning (Summer 2024) Boot Camp*
 
+![image](https://github.com/user-attachments/assets/05984823-5162-4bb2-b6a7-dbe47f7af596)
+
 ## Introduction
 
 One of the most important applications of deep neural networks in the healthcare industry is the classification of various types of diseases from image data. Particularly, one life-saving application is to detect cancerous cells at an early stage. In this project, we will train convolutional neural networks (CNNs) with a [Kaggle Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images) of 15,000 images to distinguish normal lung tissues from cancerous ones.
