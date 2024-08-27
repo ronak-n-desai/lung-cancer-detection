@@ -49,5 +49,5 @@ If this project were to be extended, we could do the following
 
 We made extensive use of Kaggle's free 30 hours per week of GPU compute time for our analysis. Additionally, we thank the Erdos Institute for providing us the opportunity to learn about deep learning and work on this project.
 
-- [PyTorch implementation of ZFNet](https://github.com/CellEight/Pytorch-ZFNet/tree/main)
-- [PyTorch implementation of Local Contrast Norm](https://github.com/dibyadas/Visualize-Normalizations/blob/master/LocalContrastNorm.ipynb)
+- [PyTorch implementation of ZFNet](https://github.com/CellEight/Pytorch-ZFNet/tree/main) by *CellEight*
+- [PyTorch implementation of Local Contrast Norm](https://github.com/dibyadas/Visualize-Normalizations/blob/master/LocalContrastNorm.ipynb) by *dibyadas*
