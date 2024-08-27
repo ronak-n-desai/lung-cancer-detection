@@ -32,7 +32,7 @@ Additionally, we used some pre-trained models as a comparison for what can be ac
 
 ## Conclusion
 
-Ultimately, we were able to find success with the ZFNet, achieving 99% training accuracy and 98% validation accuracy which is an improvement over the aforementioned gold medal winner on this dataset. 
+Ultimately, we were able to find success with the ZFNet, achieving 99.5% training accuracy and 98.8% validation accuracy which is an improvement over the aforementioned gold medal winner on this dataset. 
 
 ![image](https://github.com/user-attachments/assets/3d670cc6-f292-4385-8796-625e036abbe5)
 
@@ -49,5 +49,7 @@ If this project were to be extended, we could do the following
 
 We made extensive use of Kaggle's free 30 hours per week of GPU compute time for our analysis. Additionally, we thank the Erdos Institute for providing us the opportunity to learn about deep learning and work on this project.
 
+**Other Resources**
 - [PyTorch implementation of ZFNet](https://github.com/CellEight/Pytorch-ZFNet/tree/main) by *CellEight*
 - [PyTorch implementation of Local Contrast Norm](https://github.com/dibyadas/Visualize-Normalizations/blob/master/LocalContrastNorm.ipynb) by *dibyadas*
+  + [Neat Article](https://medium.com/@dibyadas/visualizing-different-normalization-techniques-84ea5cc8c378) on the implementation of LCN
