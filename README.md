@@ -1,4 +1,4 @@
-# Lung Cancer Detection with Histopathological Images ![image](https://github.com/user-attachments/assets/05984823-5162-4bb2-b6a7-dbe47f7af596)
+# Lung Cancer Detection with Histopathological Images  <img src="https://github.com/user-attachments/assets/05984823-5162-4bb2-b6a7-dbe47f7af596" alt="drawing" width="200"/>
 
 **Authors: Abuduaini Niyazi, Derek Kielty, Rishat Dilmurat, Sujoy Upadhyay, Ronak Desai**
 
