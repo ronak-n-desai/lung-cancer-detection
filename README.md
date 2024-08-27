@@ -1,8 +1,8 @@
-# Lung Cancer Detection with Histopathological Images  <img src="https://github.com/user-attachments/assets/05984823-5162-4bb2-b6a7-dbe47f7af596" alt="drawing" width="50"/>
+# Lung Cancer Detection with Histopathological Images
 
 **Authors: Abuduaini Niyazi, Derek Kielty, Rishat Dilmurat, Sujoy Upadhyay, Ronak Desai**
 
-*Submitted as a final project for the [Erdos Institute](https://www.erdosinstitute.org/) Deep Learning (Summer 2024) Boot Camp* 
+*Submitted as a final project for the [Erdos Institute](https://www.erdosinstitute.org/) Deep Learning (Summer 2024) Boot Camp*  <img src="https://github.com/user-attachments/assets/05984823-5162-4bb2-b6a7-dbe47f7af596" alt="drawing" width="25"/>
 
 ## Introduction
 
