@@ -14,7 +14,7 @@ The above images are (from left to right) adenocarcinoma (ACA), squamous cell ca
 
 [Some others](https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/#) have done an analysis on this with varying levels of accuracy. The [analysis with the most upvotes (78 upvotes with a gold medal)](https://www.kaggle.com/code/mohamedsameh0410/lung-cancer-detection-with-cnn-efficientnetb3#EfficientNetB3) used [TensorFlow](https://www.tensorflow.org/) to train a CNN model with 94.67% accuracy on a validation set. Furthermore, using a pre-trained [EfficientNetB3](https://keras.io/api/applications/efficientnet/) model (pre-trained with [ImageNet](https://image-net.org/) data), they achieved 100 percent accuracy on the validation set.
 
-In this project, **our group aims to match or exceed the validation set accuracy of the other groups that have worked with this dataset previously**. Additionally, we use the frameworm of [PyTorch](https://pytorch.org/) to perform our machine learning analysis. 
+In this project, **our group aims to match or exceed the validation set accuracy of the other groups that have worked with this dataset previously**. Additionally, we use the framework of [PyTorch](https://pytorch.org/) to perform our machine learning analysis. 
 
 ## Pre-processing
 
